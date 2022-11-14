@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+        <h1>Crystal Clean Front End</h1>
+        <h2>Coming Soon...</h2>
       </header>
     </div>
   );
