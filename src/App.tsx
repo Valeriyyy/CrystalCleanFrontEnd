@@ -6,6 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Crystal Clean Front End</h1>
+        <h2>Coming Soon...</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
@@ -18,8 +20,6 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Crystal Clean Front End</h1>
-        <h2>Coming Soon...</h2>
       </header>
     </div>
   );
